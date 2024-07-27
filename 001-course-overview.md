@@ -19,3 +19,6 @@ Over four weeks, you'll dive into the fundamentals of prompting, using various A
 - Applying prompts to real-world problem-solving scenarios including the development of a simple app
 
 Join us in this journey to become not just a prompt user, but an AI-empowered problem solver ready for the challenges and opportunities of tomorrow.
+
+To proceed, move from file 001 to file 002 and continue in that order. consider visiting the 201 file "helpful-prompts" at any time as well. It's recommended that you skim through all the files before you get started with the 100-week-0 checklist. One could finish this course start-to-finish in just a few hours if committed and focused; but checking in with Ryan and your other cohort members along the way, breaking this into a few weeks, will allow you time to digest your learnings for even better engagement and retention. Happy prompting.
+
