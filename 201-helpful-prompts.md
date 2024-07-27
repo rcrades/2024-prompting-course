@@ -21,9 +21,8 @@ When requesting a full code file, ask the AI to include comments marking:
 - End of the file
 
 Example prompt:
-```
-I am a beginner learning web development and prompting. Can you create a basic HTML file for a simple webpage? Please include comments marking the beginning and end of the file, as well as the beginning and end of each section. Use the format "languagename-section-sectionnumber-sectiontheme" for each section.
-```
+> I am a beginner learning web development and prompting. Can you create a basic HTML file for a simple webpage? Please include comments marking the beginning and end of the file, as well as the beginning and end of each section. Use the format "languagename-section-sectionnumber-sectiontheme" for each section.
+
 
 ## Specific Prompts for Different Tasks
 
