@@ -6,9 +6,11 @@ This guide provides a set of prompts and guidelines for effective AI-assisted le
 
 When asking for code or explanations, use this template:
 
-```
-I am trying to learn prompting and web development, but I am a beginner. Can you help me with [specific task or concept]? If you are ever providing code, please provide code I can copy and paste, with comments, and break it into sections formatted as "languagename-section-sectionnumber-sectiontheme". Also, tell me which file this goes in and which section it belongs to.
-```
+
+
+> I am trying to learn prompting and web development, but I am a beginner. Can you help me with [specific task or concept]? If you are ever providing code, please provide code I can copy and paste, with comments, and break it into sections formatted as "languagename-section-sectionnumber-sectiontheme". Also, tell me which file this goes in and which section it belongs to.
+
+---
 
 ## File and Section Formatting
 
