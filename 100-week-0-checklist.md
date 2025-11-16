@@ -3,10 +3,35 @@
 Welcome to the first week (week zero) of our AI-Assisted Web Development course! This week, we'll focus on setting up your AI environment and learning the basics of prompting. Use this checklist to track your progress.
 
 ## Getting Started with AI Tools
+
+### ChatGPT by OpenAI - Your First Chatbot Experience
 - [ ] Sign up for a ChatGPT account (https://chat.openai.com)
 - [ ] Explore the ChatGPT interface
+- [ ] Try having a conversation with ChatGPT about anything
+- [ ] Ask ChatGPT to explain what prompting is
+
+### Claude by Anthropic - Another Chatbot Perspective
+- [ ] Sign up for a Claude account (https://claude.ai)
+- [ ] Compare Claude's interface to ChatGPT's
+- [ ] Ask Claude the same question you asked ChatGPT
+- [ ] Notice the differences in their responses
+
+### v0 by Vercel - Your AI React App Builder (Preview)
+- [ ] Visit v0.dev (https://v0.dev)
+- [ ] Explore example projects in the gallery
+- [ ] Understand that v0 builds visual React applications
+- [ ] Note: We'll dive deeper into v0 in Week 1
+
+### GitHub - Your Code's Home
 - [ ] Sign up for a GitHub account (https://github.com)
+- [ ] Explore the GitHub interface
+- [ ] Understand that GitHub is where you'll store your code
+- [ ] Note: We'll learn to push v0 code here in Week 1
+
+### Community Setup
 - [ ] Join the course Discord channel
+- [ ] Introduce yourself in Discord
+- [ ] Check the Zoom schedule for weekly calls
 
 ## Introduction to Prompting
 - [ ] Understand the concept of prompting in AI
@@ -43,7 +68,13 @@ Welcome to the first week (week zero) of our AI-Assisted Web Development course!
 
 ## Reflection and Next Steps
 - [ ] Review your experience using AI for web development
+- [ ] Write down which chatbot (ChatGPT or Claude) you preferred and why
 - [ ] Share one interesting prompt and result in the Discord channel
 - [ ] Prepare questions about prompting or web development for the weekly Zoom call
+
+## Preview: What's Coming in Week 1
+- [ ] Read about Cursor AI (https://cursor.com) - We'll install this next week
+- [ ] Understand the workflow: v0 creates → GitHub stores → Cursor enhances
+- [ ] Get excited about building real applications!
 
 Remember to mark each item with an [x] as you complete it. Don't hesitate to ask for help in the Discord channel or during our Zoom calls. Happy learning!
