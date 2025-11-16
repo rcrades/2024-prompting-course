@@ -8,7 +8,7 @@
 
 ## 📖 What is This Course?
 
-In an era where artificial intelligence is reshaping technology, the ability to effectively communicate with AI tools has become a critical skill. This course teaches you to **think alongside AI** while building real web applications from scratch.
+The ability to effectively communicate with AI tools has become a critical skill. This course teaches you to **think alongside AI** while building real web applications from scratch.
 
 **You'll learn to:**
 - 🎯 Master prompting techniques for technical problem-solving
@@ -18,7 +18,7 @@ In an era where artificial intelligence is reshaping technology, the ability to 
 - 🌐 Deploy your projects using GitHub
 
 **Perfect for:**
-- Complete beginners in programming
+- Folks that didn't have plans to learn how to code
 - Anyone curious about AI-assisted development
 - Self-learners wanting structured guidance
 - Professionals upskilling for an AI-augmented future
