@@ -1,13 +1,13 @@
 
-# Week 1: Web Fundamentals & Version Control
+# Week 1: Building Your First Real App with v0 and Cursor
 
-Welcome to the next week of prompting 101! This week, we'll cover the basics of web development and version control. Use this checklist to track your progress and ensure you've covered all the essential topics.
+Welcome to Week 1! This week, you'll build your first real application using v0, learn to store it on GitHub, and customize it with Cursor AI. This is where the magic of AI-assisted development really begins!
 
 ## Getting Started
-- [ ] Read the course overview and learning objectives
-- [ ] Install required software (Cursor, Python)
-- [ ] Set up accounts (GitHub, Zoom, Discord, OpenAI, Anthropic)
-- [ ] Join the course Discord channel
+- [ ] Review Week 0 learnings (ChatGPT, Claude basics)
+- [ ] Ensure you have active accounts: v0.dev, GitHub, Claude/ChatGPT
+- [ ] Download and install Cursor AI (https://cursor.com)
+- [ ] Familiarize yourself with the workflow: v0 → GitHub → Cursor
 
 ## Web Development Basics
 ### HTML
@@ -41,6 +41,22 @@ Welcome to the next week of prompting 101! This week, we'll cover the basics of 
   - [ ] Functions
 - [ ] Add a simple interactive element to your web page (e.g., an alert button)
 
+## Introduction to v0 - Your AI App Builder
+- [ ] Visit v0.dev and sign in
+- [ ] Explore the example gallery to see what's possible
+- [ ] Understand that v0 generates React applications
+- [ ] Learn the basic v0 workflow:
+  - [ ] Write a prompt describing your app
+  - [ ] Review the generated code and preview
+  - [ ] Iterate with follow-up prompts
+  - [ ] Export the final code
+- [ ] Practice writing effective prompts for v0:
+  - [ ] Be specific about layout and sections
+  - [ ] Mention design preferences (modern, minimalist, colorful, etc.)
+  - [ ] Request specific components (forms, buttons, cards, etc.)
+  - [ ] Iterate to refine the output
+- [ ] Try a simple example: "Create a landing page for a coffee shop with a header, hero section, and menu grid"
+
 ## Version Control with GitHub
 - [ ] Understand the importance of version control
 - [ ] Create a GitHub account
@@ -64,12 +80,35 @@ Welcome to the next week of prompting 101! This week, we'll cover the basics of 
 - [ ] Use Cursor to help build your file structure and directory structure
 - [ ] Use Cursor to help write and understand your HTML, CSS, and JavaScript code within that directory / file structure
 
-## Project: "About Me/My Pet" Website
-- [ ] Plan your website content
-- [ ] Create the HTML structure
-- [ ] Style your website with CSS
-- [ ] Add a simple JavaScript interaction
-- [ ] Upload your project files to GitHub using the web interface
+## Project: Personal Portfolio Starter
+
+### Phase 1: Build with v0
+- [ ] Go to v0.dev and start a new project
+- [ ] Craft a prompt for your personal portfolio (e.g., "Create a personal portfolio website with a hero section, about me section, and contact form. Use modern design with a professional color scheme.")
+- [ ] Iterate on the design with follow-up prompts
+- [ ] Experiment with different styles and layouts
+- [ ] Export your final v0 project code
+
+### Phase 2: Push to GitHub
+- [ ] Create a new repository on GitHub for your portfolio
+- [ ] Upload the v0 export files to your repository
+- [ ] Create a meaningful README explaining your project
+- [ ] Take a screenshot of your site and add it to the README
+
+### Phase 3: Customize with Cursor
+- [ ] Install Cursor AI (https://cursor.com)
+- [ ] Clone your GitHub repository in Cursor
+- [ ] Use Cursor's AI to understand the v0-generated code
+- [ ] Make at least 3 customizations:
+  - [ ] Change colors or fonts to match your personal brand
+  - [ ] Add a new section (e.g., skills, projects, hobbies)
+  - [ ] Modify the layout or spacing
+- [ ] Commit your changes and push back to GitHub
+
+### Phase 4: Reflection
+- [ ] Document your prompting process for v0
+- [ ] Note what worked well and what was challenging
+- [ ] Share your deployed site with the Discord community
 
 ## Writing an Effective README
 - [ ] Understand the importance of documentation

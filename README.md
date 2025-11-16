@@ -12,8 +12,8 @@ The ability to effectively communicate with AI tools has become a critical skill
 
 **You'll learn to:**
 - 🎯 Master prompting techniques for technical problem-solving
-- 💻 Build web applications using HTML, CSS, JavaScript, and Python
-- 🤖 Leverage ChatGPT, Claude, and Cursor AI as development partners
+- 💻 Build web applications using HTML, CSS, JavaScript, React, and Python
+- 🤖 Leverage ChatGPT, Claude, v0, and Cursor AI as development partners
 - 🔍 Debug, iterate, and improve with AI assistance
 - 🌐 Deploy your projects using GitHub
 
@@ -33,25 +33,25 @@ The ability to effectively communicate with AI tools has become a critical skill
 - Master the art of asking AI for help
 
 ### Week 1: Fundamentals
-**Dive into web technologies with AI guidance**
-- Understand HTML, CSS, and JavaScript
-- Use Cursor AI for code development
-- Create a complete personal website
-- Version control with GitHub
+**Build your first real app with v0 and Cursor**
+- Introduction to v0 for rapid React app creation
+- Learn to export and understand v0-generated code
+- Push your first project to GitHub
+- Use Cursor AI to customize and enhance your portfolio
 
 ### Week 2: Intermediate
-**Level up with responsive design and advanced prompting**
-- Build mobile-friendly layouts
-- Craft complex, multi-step prompts
-- Develop an interactive web application
-- Refine your AI collaboration workflow
+**Create an interactive app with real functionality**
+- Build a task tracker with local data persistence
+- Master responsive design with v0 and Tailwind CSS
+- Craft complex, multi-step prompts for features
+- Iterate on v0 code using Cursor AI
 
 ### Week 3: Graduation
-**Capstone project bringing it all together**
-- Introduction to Python for backends
-- Work with JSON data structures
-- Build a House Issues Logging App
-- Present your AI-assisted development journey
+**Build your capstone full-stack application**
+- Choose your own project (or pick from curated list)
+- Add a backend with Python or Node.js
+- Implement APIs and data persistence
+- Present your complete AI-assisted development journey
 
 ## 🚀 Quick Start
 
@@ -99,22 +99,25 @@ Open [http://localhost:3000](http://localhost:3000) to see the course dashboard.
 
 | Week | Project | Technologies |
 |------|---------|--------------|
-| 0 | About Me Page | HTML, CSS |
-| 1 | Personal Website | HTML, CSS, JavaScript, GitHub |
-| 2 | Interactive Web App | Responsive Design, Advanced JS |
-| 3 | House Issues Logger | Python, JSON, Full Stack |
+| 0 | About Me Page | HTML, CSS, AI Prompting |
+| 1 | Personal Portfolio Starter | v0, React, GitHub, Cursor |
+| 2 | Interactive Task Tracker | v0, React, Local Storage, Responsive Design |
+| 3 | Full-Stack App of Your Choice | v0, React, Python/Node.js, JSON/API |
 
 ## 🛠️ Tech Stack
 
-**AI Tools:**
-- ChatGPT (OpenAI)
-- Claude (Anthropic)
-- Cursor (AI-powered IDE)
+**AI Tools (in order of introduction):**
+- **ChatGPT by OpenAI** - Your first chatbot experience for learning prompting basics
+- **Claude by Anthropic** - Shows what another chatbot looks like compared to ChatGPT
+- **v0 by Vercel** - AI-powered React app builder where you prompt to create full applications
+- **GitHub** - Version control platform where you push your v0 code for collaboration
+- **Cursor** - AI-powered IDE where you iterate and build upon code from v0 that was pushed to GitHub
 
 **Development:**
 - HTML5, CSS3, JavaScript (ES6+)
+- React (via v0)
 - Python 3.x (Week 3)
-- GitHub (version control)
+- Git & GitHub (version control)
 
 **Course Platform:**
 - Markdown-based materials
@@ -155,9 +158,10 @@ with comments and file specifications."
 
 By the end of this course, you'll:
 - ✅ Have 4 working projects in your portfolio
-- ✅ Confidently use ChatGPT, Claude, and Cursor
-- ✅ Understand web development fundamentals
+- ✅ Confidently use ChatGPT, Claude, v0, and Cursor
+- ✅ Understand web development fundamentals (HTML, CSS, JavaScript, React basics)
 - ✅ Know how to debug and iterate with AI help
+- ✅ Master the workflow: prompt in v0 → push to GitHub → iterate in Cursor
 - ✅ Be ready for more advanced development courses
 
 ## 🤝 Contributing
@@ -172,13 +176,12 @@ This course thrives on community input! Ways to contribute:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 📖 For AI Agents
+## 💬 Community & Support
 
-If you're an AI assistant helping with this repository:
-- Read [AGENT.md](AGENT.md) for comprehensive guidance
-- Check [CLAUDE.md](CLAUDE.md) for Claude Code specific instructions
-- Follow the structured prompting framework in all examples
-- Maintain beginner-friendly language
+- **Discord**: Daily peer support and discussion
+- **Zoom**: Weekly cohort calls for Q&A
+- **GitHub Issues**: Technical problems and course feedback
+- **Instructor**: Ryan (check Discord for contact)
 
 ## 🗺️ Course Timeline
 
@@ -188,12 +191,13 @@ If you're an AI assistant helping with this repository:
 
 **Flexible**: Self-paced with optional community engagement
 
-## 💬 Community & Support
+## 📖 For AI Agents
 
-- **Discord**: Daily peer support and discussion
-- **Zoom**: Weekly cohort calls for Q&A
-- **GitHub Issues**: Technical problems and course feedback
-- **Instructor**: Ryan (check Discord for contact)
+If you're an AI assistant helping with this repository:
+- Read [AGENT.md](AGENT.md) for comprehensive guidance
+- Check [CLAUDE.md](CLAUDE.md) for Claude Code specific instructions
+- Follow the structured prompting framework in all examples
+- Maintain beginner-friendly language
 
 ## 📜 License
 

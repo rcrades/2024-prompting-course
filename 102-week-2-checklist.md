@@ -1,14 +1,15 @@
-# Week 2: Intermediate Web Development & Advanced Prompting
+# Week 2: Building an Interactive Task Tracker
 
-Welcome to Week 2 of the Prompting 101 course! This week, we'll dive deeper into web development concepts and explore advanced prompting techniques for AI-assisted coding.
+Welcome to Week 2! Now that you've mastered the v0 → GitHub → Cursor workflow, it's time to build something more interactive. This week, you'll create a fully functional task tracker app with data persistence.
 
 ## Overview
 
 In this week, you'll:
-- Expand your knowledge of HTML and CSS
-- Learn about responsive design
-- Explore advanced prompting techniques for code generation and problem-solving
-- Create an interactive web application with AI assistance
+- Build a real-world app: a task tracker with full CRUD functionality
+- Learn responsive design with Tailwind CSS (via v0)
+- Implement local storage for data persistence
+- Master advanced prompting for specific features
+- Practice iterating on complex applications with Cursor AI
 
 ## Checklist
 
@@ -32,12 +33,60 @@ In this week, you'll:
 - [ ] Practice analyzing and refining AI-generated code
 - [ ] Implement error handling with AI assistance
 
-### Project: Interactive Web Application
-- [ ] Plan your interactive web app
-- [ ] Use AI to assist in design and layout decisions
-- [ ] Implement core functionality with AI-guided coding
-- [ ] Add responsive design elements
-- [ ] Test and debug with AI assistance
+### Project: Interactive Task Tracker App
+
+#### Phase 1: Design & Initial Build with v0
+- [ ] Plan your task tracker features:
+  - [ ] Add new tasks
+  - [ ] Mark tasks as complete
+  - [ ] Delete tasks
+  - [ ] Filter tasks (all, active, completed)
+- [ ] Craft a comprehensive v0 prompt, for example:
+  ```
+  "Create a modern task tracker app with the following features:
+  - Clean, minimalist design with Tailwind CSS
+  - Input field to add new tasks
+  - Task list showing all tasks with checkboxes
+  - Delete button for each task
+  - Filter buttons: All, Active, Completed
+  - Task counter showing remaining tasks
+  - Responsive design for mobile and desktop"
+  ```
+- [ ] Iterate on the design until you're happy with it
+- [ ] Export the v0 code
+
+#### Phase 2: Add Data Persistence with Cursor
+- [ ] Push your v0 export to a new GitHub repository
+- [ ] Clone the repo in Cursor AI
+- [ ] Use Cursor to add localStorage functionality:
+  - [ ] Save tasks to localStorage when added/updated
+  - [ ] Load tasks from localStorage on app start
+  - [ ] Persist task state (completed/active)
+- [ ] Test that tasks persist after page refresh
+
+#### Phase 3: Enhance & Customize
+- [ ] Use Cursor AI to add at least 2 additional features:
+  - [ ] Edit existing tasks
+  - [ ] Due dates for tasks
+  - [ ] Priority levels (high, medium, low)
+  - [ ] Categories or tags
+  - [ ] Search functionality
+  - [ ] Dark mode toggle
+- [ ] Improve the UI/UX based on your preferences
+- [ ] Make it fully responsive for mobile devices
+
+#### Phase 4: Polish & Share
+- [ ] Test thoroughly on different screen sizes
+- [ ] Fix any bugs with Cursor's help
+- [ ] Write a comprehensive README with:
+  - [ ] Project description
+  - [ ] Features list
+  - [ ] Screenshots
+  - [ ] How to run locally
+  - [ ] Technologies used
+  - [ ] Your prompting process
+- [ ] Deploy your app (optional: Vercel, Netlify)
+- [ ] Share on Discord and get feedback
 
 ### Version Control and Collaboration
 - [ ] Create a new GitHub repository for your project
