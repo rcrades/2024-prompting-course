@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discord Community
+    url: https://discord.gg/your-discord-link
+    about: Get help from fellow students and instructors in real-time
+  - name: 📖 Course Documentation
+    url: https://github.com/rcrades/2024-prompting-course/blob/main/README.md
+    about: Read the course overview and getting started guide
+  - name: 🎯 Helpful Prompts Guide
+    url: https://github.com/rcrades/2024-prompting-course/blob/main/201-helpful-prompts.md
+    about: Review prompting templates and examples
