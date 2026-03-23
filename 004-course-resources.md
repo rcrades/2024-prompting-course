@@ -6,7 +6,7 @@
 - Zoom account (for virtual sessions)
 - Discord account (for community discussions)
 - Cursor (AI-enhanced text editor, optional but recommended)
-- Python 3.x (for Week 3, optional)
+- Vercel account (for deploying your final project, free tier)
 
 ## Evals and Assistance
 

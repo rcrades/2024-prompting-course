@@ -37,8 +37,8 @@ Example prompt:
 4. Working with JSON in JavaScript:
 > I'm new to web development and prompting. Can you show me how to [read from/write to] a JSON file using JavaScript? Please provide commented code sectioned as discussed, and specify which file and section this should go in.
 
-5. Basic Python for backend:
-> As a beginner learning web development and prompting, can you show me how to [specific Python task for backend]? Please provide commented Python code sectioned as discussed, and tell me which file and section this belongs in.
+5. Working with React components:
+> As a beginner learning web development and prompting, can you help me create a React component for [specific component, e.g., "a card that displays a recipe with an image, title, and cook time"]? Please provide commented code sectioned as discussed, and tell me which file and section this belongs in.
 
 ---
 

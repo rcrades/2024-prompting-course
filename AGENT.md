@@ -56,9 +56,9 @@ Week 2: Intermediate
 └─ Project: Interactive Web App
 
 Week 3: Graduation
-├─ Python Backend Basics
-├─ JSON Data Handling
-└─ Final Project: House Issues Logging App
+├─ Understanding React & Next.js (the tools behind v0)
+├─ Data Persistence (local storage or simple database)
+└─ Final Project: Capstone App of Your Choice
 ```
 
 ### Technology Stack
@@ -70,7 +70,7 @@ Week 3: Graduation
 
 **Development Technologies**:
 - HTML, CSS, JavaScript (Weeks 0-2)
-- Python (Week 3)
+- React / Next.js (Week 3, via v0 and Cursor)
 - GitHub (web interface)
 
 **Communication Platforms**:

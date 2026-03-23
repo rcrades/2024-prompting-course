@@ -32,7 +32,7 @@ The repository uses a **strict numbering convention**:
 
 ### Technology Stack
 - **Primary AI Tools**: ChatGPT, Claude (you!), Cursor
-- **Development**: HTML, CSS, JavaScript, Python (Week 3)
+- **Development**: HTML, CSS, JavaScript, React/Next.js (Week 3)
 - **Platform**: GitHub (web interface), Discord, Zoom
 - **Approach**: No traditional package managers - pure web-first development
 - **Frontend Demo**: Next.js app in `/frontend/` (optional, supplementary)
@@ -41,7 +41,7 @@ The repository uses a **strict numbering convention**:
 - **Week 0**: Foundation (AI tools setup, basic prompting, "About Me" webpage)
 - **Week 1**: Fundamentals (web technologies, GitHub, Cursor AI, personal website)
 - **Week 2**: Intermediate (responsive design, advanced prompting, interactive app)
-- **Week 3**: Graduation (Python backend, JSON data, House Issues Logging App)
+- **Week 3**: Graduation (React/Next.js, data persistence, Capstone App)
 
 ## 🎯 Key Course Methodologies
 
@@ -282,7 +282,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ### Code Quality Standards
 - All code must be **tested** and working
-- Use **modern best practices** (HTML5, ES6+, Python 3.x)
+- Use **modern best practices** (HTML5, ES6+, React)
 - Include **accessibility** considerations
 - Provide **mobile-responsive** examples when relevant
 - Follow **security best practices** (no XSS, injection vulnerabilities)

@@ -2,6 +2,8 @@
 
 Welcome to the first week (week zero) of our AI-Assisted Web Development course! This week, we'll focus on setting up your AI environment and learning the basics of prompting. Use this checklist to track your progress.
 
+> **Where you are:** This week is all about learning to have effective conversations with AI. Everything that comes after builds on how well you can do this.
+
 ## Getting Started with AI Tools
 
 ### ChatGPT by OpenAI - Your First Chatbot Experience

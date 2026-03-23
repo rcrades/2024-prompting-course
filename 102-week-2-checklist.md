@@ -2,6 +2,8 @@
 
 Welcome to Week 2! Now that you've mastered the v0 → GitHub → Cursor workflow, it's time to build something more interactive. This week, you'll create a fully functional task tracker app with data persistence.
 
+> **Where you are:** You know how to create with AI and iterate on what it gives you. This week you push both of those skills further by building something more complex.
+
 ## Overview
 
 In this week, you'll:

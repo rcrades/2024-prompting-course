@@ -3,6 +3,8 @@
 
 Welcome to Week 1! This week, you'll build your first real application using v0, learn to store it on GitHub, and customize it with Cursor AI. This is where the magic of AI-assisted development really begins!
 
+> **Where you are:** Last week you learned to talk to AI. This week, you tell AI what to *build* — and it builds it.
+
 ## Getting Started
 - [ ] Review Week 0 learnings (ChatGPT, Claude basics)
 - [ ] Ensure you have active accounts: v0.dev, GitHub, Claude/ChatGPT

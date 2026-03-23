@@ -12,7 +12,7 @@ The ability to effectively communicate with AI tools has become a critical skill
 
 **You'll learn to:**
 - 🎯 Master prompting techniques for technical problem-solving
-- 💻 Build web applications using HTML, CSS, JavaScript, React, and Python
+- 💻 Build web applications using HTML, CSS, JavaScript, and React
 - 🤖 Leverage ChatGPT, Claude, v0, and Cursor AI as development partners
 - 🔍 Debug, iterate, and improve with AI assistance
 - 🌐 Deploy your projects using GitHub
@@ -47,10 +47,10 @@ The ability to effectively communicate with AI tools has become a critical skill
 - Iterate on v0 code using Cursor AI
 
 ### Week 3: Graduation
-**Build your capstone full-stack application**
+**Build your capstone app and share it with the world**
 - Choose your own project (or pick from curated list)
-- Add a backend with Python or Node.js
-- Implement APIs and data persistence
+- Understand React and Next.js — the tools behind v0
+- Deploy a real app to Vercel that anyone can visit
 - Present your complete AI-assisted development journey
 
 ## 🚀 Quick Start
@@ -102,7 +102,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the course dashboard.
 | 0 | About Me Page | HTML, CSS, AI Prompting |
 | 1 | Personal Portfolio Starter | v0, React, GitHub, Cursor |
 | 2 | Interactive Task Tracker | v0, React, Local Storage, Responsive Design |
-| 3 | Full-Stack App of Your Choice | v0, React, Python/Node.js, JSON/API |
+| 3 | Capstone App of Your Choice | v0, React, Next.js, Vercel |
 
 ## 🛠️ Tech Stack
 
@@ -116,8 +116,8 @@ Open [http://localhost:3000](http://localhost:3000) to see the course dashboard.
 **Development:**
 - HTML5, CSS3, JavaScript (ES6+)
 - React (via v0)
-- Python 3.x (Week 3)
 - Git & GitHub (version control)
+- Vercel (deployment)
 
 **Course Platform:**
 - Markdown-based materials

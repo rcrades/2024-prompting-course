@@ -59,7 +59,7 @@ The frontend displays a comprehensive overview of the 4-week course:
 - **Week 0**: Foundation - AI tool setup and basic prompting techniques
 - **Week 1**: Fundamentals - Deep dive into web technologies and GitHub  
 - **Week 2**: Intermediate Skills - Advanced concepts and responsive design
-- **Week 3**: Graduation - Full-stack development with Python
+- **Week 3**: Graduation - Capstone app with React, Next.js, and Vercel deployment
 
 ## Components
 

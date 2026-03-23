@@ -156,7 +156,7 @@
 
 ### Week 3 Redesign
 - [ ] Showcase full workflow: v0 → GitHub → Cursor
-- [ ] Add simple backend (Python or Node.js)
+- [ ] Understand React/Next.js and deploy to Vercel
 - [ ] Teach data persistence (JSON or simple DB)
 - [ ] Focus on portfolio-worthy final project
 - [ ] Prepare for presentation/demo

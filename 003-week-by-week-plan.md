@@ -30,10 +30,10 @@
 
 ### Week 3: Graduation and your AI-Assisted Full-Stack App
 - Topics:
-  - Introduction to Python for web development using AI-guided learning
-  - Working with JSON files and prompting for data manipulation
-  - Prompting AI for server concepts and data storage solutions
+  - Understanding React and Next.js — the tools behind v0's output
+  - Why thinking in "components" makes your prompts more powerful
+  - Working with data persistence (local storage or simple database)
   - Mobile-responsive design principles implemented with AI assistance
-  - Integrating front-end and back-end with AI support
-- Final Project: House Issues Logging App (AI-assisted full-stack development)
-- Tools: Cursor, ChatGPT, GitHub, Python
+  - Deploying a real app to Vercel that anyone can visit
+- Final Project: Capstone app of your choice (AI-assisted full-stack development)
+- Tools: v0, Cursor, ChatGPT, GitHub, Vercel

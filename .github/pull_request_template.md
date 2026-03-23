@@ -38,7 +38,7 @@
 - [ ] Includes structured comments and section markers
 - [ ] Follows format: `languagename-section-number-theme`
 - [ ] Specifies which file and directory code belongs in
-- [ ] Uses modern best practices (HTML5, ES6+, Python 3.x)
+- [ ] Uses modern best practices (HTML5, ES6+, React)
 - [ ] Includes accessibility considerations
 
 ### Documentation
